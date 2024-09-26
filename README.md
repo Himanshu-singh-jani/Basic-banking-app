@@ -8,3 +8,5 @@
 ### Technologies Used
 1. HTML, CSS, and JavaScript: For structuring, styling, and adding interactivity to the web pages.
 2. React: For creating dynamic components and managing the state of the app.
+
+https://github.com/user-attachments/assets/25350efd-4cac-4292-a03a-31a164512553
